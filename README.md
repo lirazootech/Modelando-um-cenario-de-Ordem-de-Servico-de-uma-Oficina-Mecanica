@@ -1,4 +1,4 @@
-# Modelando-um-cenario-de-Ordem-de-Servico-de-uma-Oficina-Mecanica
+# Modelando um cenário de Ordem de Serviço de uma Oficina Mecânica
 
 O objetivo principal é desenvolver um banco de dados eficiente que gerencie clientes, veículos, mecânicos, serviços, peças e ordens de serviço com relacionamentos claros e bem definidos.
 
